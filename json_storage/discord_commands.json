@@ -1,0 +1,18 @@
+[
+  {
+    "name": "check",
+    "description": "checks academic-student/ac-3-4-3 misconduct in the channel's messages"
+  },
+  {
+    "name": "ask",
+    "description": "ask a question related to academic-student/ac-3-4-3",
+    "options": [
+      {
+        "name": "question",
+        "description": "question to ask",
+        "type": 3,
+        "required": true
+      }
+    ]
+  }
+]
